@@ -1,2 +1,2 @@
 # rproject
-# Here am placing the test script to check the git rstudio link
+# Here am placing the test script to check the git rstudio links
